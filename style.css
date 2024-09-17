@@ -1,10 +1,15 @@
 body{
-    background-color: rgb(248, 134, 191);
+    background-color: rgb(241, 48, 145);
 }
 
 p{
-    color: hotpink;
+    color: rgb(243, 174, 209);
 }
 H1 {
     font-style: ;
+}
+
+.diva {
+    color: thistle;
+    font-size: ;
 }
