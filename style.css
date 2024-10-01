@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(255, 220, 237);
+    background-color: rgb(250, 196, 221);
 }
 
 p{
-    color: rgb(252, 88, 170);
+    color: hsl(323, 94%, 79%);
 }
 H1 {
     font-style: ;
@@ -11,7 +11,7 @@ H1 {
 }
 
 .diva {
-    color: rgb(250, 101, 200);
+    color: hsl(323, 94%, 79%)
     font-size: ;
 }
 
